@@ -24,8 +24,6 @@
 |:-----------:|:--------:|:---------:|
 | ![Home](screenshots/home.png) | ![Gameplay](screenshots/gameplay.png) | ![Game Over](screenshots/gameover.png) |
 
-> 💡 **Tip:** Take screenshots of the live project at [yahskamrahs.github.io/Unbeatable-Tic-Tac-Toe](https://yahskamrahs.github.io/Unbeatable-Tic-Tac-Toe/) and place them in a `/screenshots` folder in the repo.
-
 ---
 
 ## 🎮 About The Project
