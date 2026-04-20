@@ -9,7 +9,7 @@
 
 **A classic Tic-Tac-Toe game powered by the Minimax algorithm — challenge an unbeatable AI or play with a friend!**
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Play%20Now-brightgreen?style=for-the-badge)](https://yahskamrahs.github.io/Unbeatable-Tic-Tac-Toe/)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Play%20Now-brightgreen?style=for-the-badge)](https://unbeatable-tic-tac-toe-theta.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/yahskamrahs/Unbeatable-Tic-Tac-Toe)
 
 </div>
@@ -22,7 +22,7 @@
 
 | Home Screen | Gameplay | Game Over |
 |:-----------:|:--------:|:---------:|
-| ![Home](screenshots/home.png) | ![Gameplay](screenshots/gameplay.png) | ![Game Over](screenshots/gameover.png) |
+| ![Home](style/home.png) | ![Gameplay](style/gameplay.png) | ![Game Over](style/gameover.png) |
 
 ---
 
@@ -71,7 +71,7 @@ Minimax(state, isMaximizing):
 ### Play Online
 Click the badge below to play instantly — no setup required:
 
-[![Play Now](https://img.shields.io/badge/▶%20Play%20Now-Live%20Demo-brightgreen?style=for-the-badge)](https://yahskamrahs.github.io/Unbeatable-Tic-Tac-Toe/)
+[![Play Now](https://img.shields.io/badge/▶%20Play%20Now-Live%20Demo-brightgreen?style=for-the-badge)](https://unbeatable-tic-tac-toe-theta.vercel.app/)
 
 ### Run Locally
 
